@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Jon Kabat-Zinn introduziu o mindfulness como prática sistemática de atenção plena, auxiliando no cultivo de autoconsciência. Daniel Siegel propõe o conceito de mindsight, articulando neurociência e experiência subjetiva. Mihaly Csikszentmihalyi demonstra que estados de fluxo favorecem a integração entre desafio e habilidade.
+
+Tais práticas proporcionam focos de observação interna e estimulam reflexões sobre padrões mentais. Pesquisas indicam que a constância nessas atividades contribui para reduzir estresse e ampliar a autonomia emocional.
+
+**Referências**
+- KABAT-ZINN, J. (1994). Wherever you go, there you are. Hyperion.
+- SIEGEL, D. (2010). Mindsight. Bantam.
+- CSIKSZENTMIHALYI, M. (1990). Flow. Harper & Row.

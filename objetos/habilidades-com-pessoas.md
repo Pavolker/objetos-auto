@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Albert Bandura demonstra, por meio da teoria social cognitiva, que aprendemos comportamentos observando modelos. Lev Vygotsky reforça que as interações sociais são centrais no desenvolvimento de habilidades. Daniel Goleman introduz o conceito de inteligência social para explicar como a empatia e a percepção de contextos influem nos relacionamentos.
+
+A prática de observar como se age em grupo permite identificar competências sociais que necessitam de aprimoramento. Pesquisas destacam que habilidades sociais bem desenvolvidas favorecem laços de apoio e colaboram para saúde mental.
+
+**Referências**
+- BANDURA, A. (1986). Social foundations of thought and action. Prentice Hall.
+- VYGOTSKY, L. (1978). Mind in society. Harvard University Press.
+- GOLEMAN, D. (2006). Social intelligence. Bantam.

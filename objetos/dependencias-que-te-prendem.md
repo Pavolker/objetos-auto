@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Robert Bornstein descreve a dependência emocional como padrões de busca excessiva de apoio, frequentemente ligados à insegurança. Harriet Braiker observa como esses padrões podem levar a relações desequilibradas. Otto Kernberg, a partir da teoria das relações objetais, ressalta a importância de identificar limites saudáveis para preservar a identidade.
+
+Na prática clínica, compreender dependências auxilia a construir autonomia afetiva. A literatura mostra que terapias focadas em fortalecimento do self reduzem padrões codependentes e favorecem relações mais funcionais.
+
+**Referências**
+- BORNSTEIN, R. (1993). The dependent personality. Guilford Press.
+- BRAIKER, H. (1989). The disease to please. HarperCollins.
+- KERNBERG, O. (1995). Relaciones de objeto y psicopatía. Paidós.

@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Kenneth Thomas e Ralph Kilmann descrevem estilos de conflito variando de competitivos a cooperativos, o que auxilia na identificação das próprias tendências. Morton Deutsch enfatiza que a forma como percebemos o adversário influi em soluções mais destrutivas ou construtivas. Johan Galtung, na tradição dos estudos da paz, amplia o debate mostrando como os conflitos podem ser transformados de maneira positiva.
+
+Compreender o próprio estilo de conflito favorece a comunicação assertiva e a cooperação. A literatura sugere que o autoconhecimento nesse campo reduz escaladas desnecessárias e abre espaço para acordos sustentáveis.
+
+**Referências**
+- THOMAS, K.; KILMANN, R. (1974). Thomas-Kilmann Conflict Mode Instrument. Xicom.
+- DEUTSCH, M. (1973). The Resolution of Conflict. Yale University Press.
+- GALTUNG, J. (2007). Peace by peaceful means. Sage.

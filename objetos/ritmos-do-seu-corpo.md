@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Nathaniel Kleitman foi pioneiro nos estudos do sono e identificou ciclos de vigília essenciais à saúde. Jürgen Aschoff aprofundou a cronobiologia, mostrando que ritmos circadianos regulam funções corporais. Michael Smolensky relaciona esses ritmos ao desempenho e à prevenção de doenças.
+
+Perceber o próprio ritmo de sono, fome e energia ajuda a sincronizar atividades diárias com as necessidades biológicas. Estudos sugerem que respeitar esses sinais melhora a disposição e a saúde mental.
+
+**Referências**
+- KLEITMAN, N. (1963). Sleep and wakefulness. University of Chicago Press.
+- ASCHOFF, J. (1981). Biological rhythms. Springer.
+- SMOLENSKY, M.; LEMMER, B. (2007). Chronobiology and medicine. Springer.

@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+John Gottman investiga padrões de interação que levam à estabilidade ou ruptura de relacionamentos. B. F. Skinner mostra que comportamentos repetidos são mantidos por reforço. Alfred Adler destaca que nossas reações estão ligadas à busca de pertencimento e superioridade.
+
+Reconhecer reações recorrentes permite modificar ciclos de conflito e promover relações mais equilibradas. Estudos apontam que a consciência desses padrões auxilia no desenvolvimento de estratégias de comunicação e regulação emocional.
+
+**Referências**
+- GOTTMAN, J. (1999). The marriage clinic. Norton.
+- SKINNER, B. (1953). Science and human behavior. Macmillan.
+- ADLER, A. (1927). Understanding human nature. Greenberg.

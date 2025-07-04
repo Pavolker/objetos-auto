@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Jerome Bruner argumenta que construímos nossa identidade por meio de narrativas que damos a nós mesmos. Paul Ricoeur discute a noção de identidade narrativa, ligando memória e ficção em um processo de compreensão do eu. Dan McAdams estuda como as histórias de vida fornecem coerência à personalidade.
+
+Reconhecer as narrativas herdadas ou criadas permite ressignificar experiências e traçar novos caminhos. Pesquisas mostram que a revisão consciente dessas histórias promove maior integração psicológica.
+
+**Referências**
+- BRUNER, J. (1991). The narrative construction of reality. Critical Inquiry.
+- RICOEUR, P. (1988). Tempo e narrativa. Vozes.
+- MCADAMS, D. (2006). The redemptive self. Oxford University Press.

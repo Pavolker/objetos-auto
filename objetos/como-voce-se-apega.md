@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+John Bowlby formulou a teoria do apego explicando como os vínculos iniciais moldam relações futuras. Mary Ainsworth complementou esses estudos ao classificar padrões de apego em seguro e inseguro. Phillip Shaver aplicou o conceito à vida adulta, mostrando a persistência desses modelos em parcerias amorosas.
+
+Conhecer o próprio estilo de apego ajuda a compreender reações emocionais em relacionamentos. Pesquisas sugerem que a consciência desses padrões contribui para vinculações mais saudáveis e maior autonomia afetiva.
+
+**Referências**
+- BOWLBY, J. (1988). A secure base. Basic Books.
+- AINSWORTH, M. (1978). Patterns of attachment. Lawrence Erlbaum.
+- SHAVER, P.; HAZAN, C. (1993). Adult romantic attachment. Guilford Press.

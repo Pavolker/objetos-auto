@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Milton Rokeach propôs uma hierarquia de valores pessoais que orienta escolhas e comportamentos. Shalom Schwartz elaborou um modelo de valores universais, mostrando como eles variam entre culturas. Ronald Inglehart analisa mudanças de valores em diferentes sociedades a partir de transformações econômicas e políticas.
+
+Refletir sobre crenças e valores ajuda a esclarecer prioridades e motivações. Pesquisas sugerem que a consciência dos valores centrais está ligada à satisfação pessoal e à coerência entre intenção e ação.
+
+**Referências**
+- ROKEACH, M. (1973). The nature of human values. Free Press.
+- SCHWARTZ, S. (1992). Universals in the content and structure of values. Advances in Experimental Social Psychology.
+- INGLEHART, R. (1997). Modernization and postmodernization. Princeton University Press.

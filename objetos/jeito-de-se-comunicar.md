@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Marshall Rosenberg desenvolveu a comunicação não violenta como forma de expressar necessidades sem agressão. Paul Watzlawick investigou a pragmática da comunicação humana, enfatizando os níveis de conteúdo e relação. Deborah Tannen contribuiu para entender como gênero e estilo influenciam o diálogo.
+
+Refletir sobre o próprio estilo comunicativo permite aprimorar clareza e empatia. Pesquisas mostram que uma comunicação consciente fortalece laços interpessoais e reduz mal-entendidos.
+
+**Referências**
+- ROSENBERG, M. (2003). Nonviolent communication. PuddleDancer.
+- WATZLAWICK, P.; BEAVIN, J.; JACKSON, D. (1967). Pragmatics of human communication. Norton.
+- TANNEN, D. (1990). You just don't understand. Ballantine.

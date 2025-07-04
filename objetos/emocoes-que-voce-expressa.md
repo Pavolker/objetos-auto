@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Paul Ekman catalogou expressões faciais universais que indicam emoções básicas. Silvan Tomkins desenvolveu a teoria dos afetos, mostrando como as expressões modulam relações sociais. Lisa Feldman Barrett discorda da universalidade estrita e propõe que as emoções são construídas culturalmente.
+
+No autoconhecimento, observar o repertório emocional expressivo permite identificar padrões de comunicação não verbal e ajustar interações. Estudos indicam que a consciência do próprio corpo facilita a regulação das relações interpessoais.
+
+**Referências**
+- EKMAN, P. (1999). Emotions revealed. Times Books.
+- TOMKINS, S. (1962). Affect imagery consciousness. Springer.
+- BARRETT, L. F. (2017). How emotions are made. Houghton Mifflin.

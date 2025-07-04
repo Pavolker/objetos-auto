@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Henry Cloud e John Townsend discorrem sobre a importância de estabelecer limites para preservar a saúde emocional. Erik Erikson considera que a delimitação de espaços pessoais se relaciona ao desenvolvimento da identidade. Brené Brown, em seus estudos sobre vulnerabilidade, ressalta que limites claros são essenciais para relações de confiança.
+
+Reconhecer onde se deve dizer "não" protege a integridade e aumenta a assertividade. A pesquisa mostra que pessoas com limites definidos apresentam menor desgaste emocional e melhor autoestima.
+
+**Referências**
+- CLOUD, H.; TOWNSEND, J. (1992). Boundaries. Zondervan.
+- ERIKSON, E. (1968). Identity: youth and crisis. Norton.
+- BROWN, B. (2012). Daring greatly. Gotham.

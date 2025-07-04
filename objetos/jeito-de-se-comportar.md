@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Erving Goffman analisa como apresentamos nossa imagem em interações cotidianas, destacando que o comportamento social é regulado por papéis e cenários. Pierre Bourdieu introduz o conceito de habitus para explicar disposições incorporadas ao longo da vida. Solomon Asch demonstra a força da conformidade em situações de grupo.
+
+Observar os próprios padrões de comportamento social possibilita identificar influências culturais e pressões de conformidade. Estudos indicam que o reconhecimento dessas forças permite escolhas mais autênticas e relações saudáveis.
+
+**Referências**
+- GOFFMAN, E. (1959). The presentation of self in everyday life. Anchor.
+- BOURDIEU, P. (1977). Outline of a theory of practice. Cambridge University Press.
+- ASCH, S. (1955). Opinions and social pressure. Scientific American.

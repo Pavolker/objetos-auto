@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Noam Chomsky propõe que as estruturas gramaticais possuem base inata, o que influencia a aquisição de qualquer língua. Stephen Krashen aborda a aquisição de segunda língua com o conceito de compreensão significativa. Lev Vygotsky relaciona linguagem e pensamento, mostrando como o uso do idioma molda a cognição.
+
+Entender os idiomas que se fala e suas origens auxilia a reconhecer influências culturais e cognitivas na formação da identidade. Estudos indicam que o bilinguismo traz benefícios para a flexibilidade mental e para a percepção intercultural.
+
+**Referências**
+- CHOMSKY, N. (1965). Aspects of the theory of syntax. MIT Press.
+- KRASHEN, S. (1982). Principles and practice in second language acquisition. Pergamon.
+- VYGOTSKY, L. (1934). Pensamento e linguagem. Martins Fontes.

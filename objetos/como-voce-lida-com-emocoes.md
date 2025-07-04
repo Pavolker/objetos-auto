@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+James Gross propõe um modelo de regulação emocional que inclui estratégias como reavaliação e supressão, influenciando o bem-estar. Richard Lazarus explica que a avaliação cognitiva de situações é determinante para lidar com o estresse. Susan David amplia essa discussão ao abordar a agilidade emocional como forma de reconhecer e processar sentimentos.
+
+Autogerenciar as emoções aprimora relações e reduz reações impulsivas. Estudos reforçam que desenvolver estratégias de regulação fortalece a resiliência e contribui para a saúde mental.
+
+**Referências**
+- GROSS, J. (2015). Emotion regulation: current status and future prospects. Psychological Inquiry.
+- LAZARUS, R. (1991). Emotion and adaptation. Oxford University Press.
+- DAVID, S. (2016). Emotional agility. Avery.

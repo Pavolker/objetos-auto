@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+John Flavell cunhou o termo metacognição para designar o conhecimento que temos sobre o nosso próprio pensamento. Ann Brown explorou como essa consciência favorece a aprendizagem autorregulada. Daniel Dennett, em sua abordagem filosófica, discute os níveis de intencionalidade que explicam a percepção de si pensando.
+
+No desenvolvimento pessoal, exercitar a metacognição aprimora a habilidade de monitorar erros e ajustar estratégias cognitivas. Estudos apontam que pessoas com maior consciência dos próprios processos mentais demonstram melhor capacidade de resolver problemas complexos.
+
+**Referências**
+- FLAVELL, J. (1979). Metacognition and cognitive monitoring. American Psychologist.
+- BROWN, A. (1987). Metacognition, executive control, self-regulation, and other more mysterious mechanisms. In F. Weinert & R. Kluwe (Eds.), Metacognition, Motivation and Understanding.
+- DENNETT, D. (1991). Consciousness explained. Little, Brown.

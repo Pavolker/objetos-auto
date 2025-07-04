@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+O estado de saúde e vitalidade é analisado pela Organização Mundial da Saúde como resultado do bem-estar físico, mental e social. Aaron Antonovsky acrescenta o enfoque salutogênico, defendendo que a busca por saúde envolve perceber recursos pessoais de resistência. Michel Foucault, ao discutir biopolítica, lembra que os discursos sobre o corpo e a saúde são também formas de poder.
+
+Essas interpretações mostram que cuidar da vitalidade implica observar condições externas e internas. A compreensão do corpo como parte de processos sociais e culturais amplia a autonomia e favorece escolhas mais conscientes no autocuidado.
+
+**Referências**
+- WORLD HEALTH ORGANIZATION (1948). Constitution of the World Health Organization. WHO.
+- ANTONOVSKY, A. (1987). Unraveling the mystery of health. Jossey-Bass.
+- FOUCAULT, M. (1976). História da sexualidade I. Graal.

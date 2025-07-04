@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Frantz Fanon analisa os efeitos do colonialismo na formação da identidade, apontando para a necessidade de descolonização cultural. Stuart Hall discute como a identidade étnica se reconfigura em contextos globalizados. Gilberto Freyre investigou as particularidades da formação cultural brasileira, ressaltando a miscigenação.
+
+Refletir sobre as raízes culturais amplia a compreensão de valores e tradições que sustentam a visão de mundo. Estudos mostram que esse reconhecimento fortalece o senso de pertencimento e de resistência simbólica.
+
+**Referências**
+- FANON, F. (1961). Peles negras, máscaras brancas. Fator.
+- HALL, S. (2003). Da diáspora. Editora UFMG.
+- FREYRE, G. (1933). Casa-grande & senzala. Global.

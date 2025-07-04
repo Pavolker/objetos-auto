@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Urie Bronfenbrenner desenvolveu o modelo ecológico do desenvolvimento humano, destacando a influência das redes de relações. Mark Granovetter diferencia laços fortes e fracos, mostrando o valor de ambos para o suporte social. John Bowlby, pela teoria do apego, ressalta a busca por segurança nos vínculos significativos.
+
+Compreender a própria rede de laços auxilia a identificar fontes de apoio e estresse. Pesquisas evidenciam que relações seguras estão associadas à saúde mental e a um senso maior de pertencimento.
+
+**Referências**
+- BRONFENBRENNER, U. (1979). The ecology of human development. Harvard University Press.
+- GRANOVETTER, M. (1973). The strength of weak ties. American Journal of Sociology.
+- BOWLBY, J. (1982). Attachment and loss. Basic Books.

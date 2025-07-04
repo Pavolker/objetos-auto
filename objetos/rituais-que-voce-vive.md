@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Victor Turner investiga o papel dos rituais na passagem entre estados sociais, apresentando a ideia de liminaridade. Émile Durkheim analisa o caráter coletivo dos ritos e como estes fortalecem a coesão. Mary Douglas destaca a função simbólica de rituais na organização social.
+
+Participar de rituais ou criar práticas simbólicas auxilia na construção de sentido e pertencimento. Estudos mostram que tais experiências podem gerar estabilidade emocional e fortalecer valores compartilhados.
+
+**Referências**
+- TURNER, V. (1969). The ritual process. Aldine.
+- DURKHEIM, É. (1912). As formas elementares da vida religiosa. Martins Fontes.
+- DOUGLAS, M. (1966). Purity and danger. Routledge.

@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+A capacidade de autoanálise é discutida desde a psicanálise de Sigmund Freud, que propõe investigar motivações inconscientes para ampliar a compreensão de si. Carl Rogers aprofundou esse conceito ao enfatizar o autoconceito como eixo do crescimento pessoal. Daniel Goleman acrescenta que a inteligência emocional depende dessa observação atenta dos próprios estados internos.
+
+Pesquisas atuais indicam que a autoobservação favorece maior flexibilidade cognitiva e regulação emocional. Essa abordagem sustenta práticas de psicoterapia e educação que estimulam o questionamento constante de padrões internos, permitindo escolhas mais conscientes.
+
+**Referências**
+- FREUD, S. (1912). The dynamics of transference. Imago.
+- ROGERS, C. (1961). On becoming a person. Houghton Mifflin.
+- GOLEMAN, D. (1995). Emotional Intelligence. Bantam.

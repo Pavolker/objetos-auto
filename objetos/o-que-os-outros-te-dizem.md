@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Douglas Stone e Sheila Heen destacam que o feedback eficaz combina escuta e foco no aprendizado. Kurt Lewin apresenta o conceito de ciclos de feedback em processos de mudança, reforçando a importância de retroalimentar comportamentos. Jack Mezirow analisa como a reflexão crítica sobre o que ouvimos pode transformar perspectivas pessoais.
+
+Ao acolher os feedbacks recorrentes, desenvolvemos maior consciência sobre a percepção externa de nossas ações. Pesquisas indicam que esse conhecimento possibilita adaptações construtivas e facilita relações saudáveis.
+
+**Referências**
+- STONE, D.; HEEN, S. (2014). Thanks for the feedback. Viking.
+- LEWIN, K. (1948). Resolving social conflicts. Harper & Brothers.
+- MEZIROW, J. (1991). Transformative dimensions of adult learning. Jossey-Bass.

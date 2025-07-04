@@ -21,3 +21,14 @@ Quando negligenciado, surgem distorções ou lacunas que dificultam a compreens�
 ## Práticas sugeridas
 - Reserve um momento de reflexão diária sobre esse tema.
 - Busque conversar com pessoas de confiança para ampliar sua percepção.
+
+## Fundamentação Acadêmica
+
+Herbert Simon introduziu o conceito de racionalidade limitada, mostrando que as decisões humanas são condicionadas por informações e tempo restritos. Daniel Kahneman ampliou essa discussão ao diferenciar processos rápidos e lentos de pensamento, revelando vieses que afetam nossas escolhas. Gerd Gigerenzer destaca o papel das heurísticas como atalhos úteis em situações de incerteza.
+
+No campo do autoconhecimento, reconhecer esses padrões de decisão possibilita maior controle sobre impulsos e julgamentos precipitados. A literatura afirma que a consciência dos fatores cognitivos e emocionais envolvidos favorece escolhas mais alinhadas com objetivos de longo prazo.
+
+**Referências**
+- SIMON, H. (1957). Models of Man. Wiley.
+- KAHNEMAN, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.
+- GIGERENZER, G. (2007). Gut feelings. Viking.
