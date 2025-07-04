@@ -7,11 +7,16 @@
 **Perspectiva:** Intelectual
 
 ## Descrição expandida
-Sinais do corpo como tensão, cansaço, energia ou dor — percepção corporal direta da experiência.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Sensações do corpo é a expressão de sensações físicas recorrentes em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Intelectual
+O olhar intelectual revela como sensações do corpo ganha significado nas interações e valores compartilhados.
+> "Conhece-te a ti mesmo." – Sócrates
+### Conexões
+Este objeto dialoga com **Rituais que você vive** e **Valores que te guiam**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -32,3 +37,8 @@ A escuta atenta das sensações permite identificar sinais de tensão ou bem-est
 - DAMASIO, A. (1994). Descartes' error. Avon.
 - VAN DER KOLK, B. (2014). The body keeps the score. Viking.
 - PERT, C. (1997). Molecules of emotion. Scribner.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Sensações do corpo reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

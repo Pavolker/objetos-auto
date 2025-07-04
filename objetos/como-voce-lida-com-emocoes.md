@@ -7,11 +7,16 @@
 **Perspectiva:** Intelectual
 
 ## Descrição expandida
-Modos como você administra emoções difíceis ou intensas — reprime, expressa, transforma?
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Como você lida com emoções é a expressão de estratégias de regulação emocional em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Intelectual
+O olhar intelectual revela como como você lida com emoções ganha significado nas interações e valores compartilhados.
+> "Conhece-te a ti mesmo." – Sócrates
+### Conexões
+Este objeto dialoga com **Como você entra em conflito** e **Como você pensa sobre pensar**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -28,7 +33,13 @@ James Gross propõe um modelo de regulação emocional que inclui estratégias c
 
 Autogerenciar as emoções aprimora relações e reduz reações impulsivas. Estudos reforçam que desenvolver estratégias de regulação fortalece a resiliência e contribui para a saúde mental.
 
+Pesquisas em neurociências, como as de Antonio Damasio e Daniel Kahneman, ajudam a compreender os processos que sustentam esse objeto.
 **Referências**
 - GROSS, J. (2015). Emotion regulation: current status and future prospects. Psychological Inquiry.
 - LAZARUS, R. (1991). Emotion and adaptation. Oxford University Press.
 - DAVID, S. (2016). Emotional agility. Avery.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Como você lida com emoções reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

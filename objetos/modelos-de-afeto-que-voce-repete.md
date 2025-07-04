@@ -7,11 +7,16 @@
 **Perspectiva:** Relacional
 
 ## Descrição expandida
-Padrões afetivos que se repetem nos seus relacionamentos, muitas vezes aprendidos na infância.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Modelos de afeto que você repete é a expressão de modelos de vínculo afetivo em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Relacional
+O olhar relacional revela como modelos de afeto que você repete ganha significado nas interações e valores compartilhados.
+> "Nenhum homem é uma ilha." – John Donne
+### Conexões
+Este objeto dialoga com **Marcos da sua identidade** e **O que os outros te dizem**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -28,7 +33,13 @@ John Bowlby descreve como experiências precoces moldam modelos de afeto usados 
 
 Identificar os modelos afetivos que se repetem ajuda a romper ciclos que geram sofrimento. A literatura demonstra que a revisão desses padrões pode levar a relações mais saudáveis e satisfatórias.
 
+Pesquisas em neurociências, como as de Antonio Damasio e Daniel Kahneman, ajudam a compreender os processos que sustentam esse objeto.
 **Referências**
 - BOWLBY, J. (1988). A secure base. Basic Books.
 - MAIN, M. (1995). Attachment: overall organization. Guilford Press.
 - JOHNSON, S. (2004). The practice of emotionally focused couple therapy. Brunner-Routledge.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Modelos de afeto que você repete reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

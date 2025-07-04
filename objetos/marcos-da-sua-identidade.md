@@ -7,11 +7,16 @@
 **Perspectiva:** Cultural
 
 ## Descrição expandida
-Acontecimentos marcantes que moldaram quem você é — rupturas, conquistas, encontros.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Marcos da sua identidade é a expressão de marcos culturais pessoais em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Cultural
+O olhar cultural revela como marcos da sua identidade ganha significado nas interações e valores compartilhados.
+> "A cultura não faz as pessoas; as pessoas fazem a cultura." – Lev Vygotsky
+### Conexões
+Este objeto dialoga com **Limites que você reconhece** e **Modelos de afeto que você repete**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -32,3 +37,8 @@ Conhecer marcos culturais pessoais ajuda a entender condições que influenciara
 - HALL, S. (2006). A identidade cultural na pós-modernidade. DP&A.
 - GEERTZ, C. (1973). The interpretation of cultures. Basic Books.
 - GIDDENS, A. (1991). Modernity and self-identity. Stanford University Press.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Marcos da sua identidade reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

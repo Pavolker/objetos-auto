@@ -7,11 +7,16 @@
 **Perspectiva:** Cultural
 
 ## Descrição expandida
-Crenças fundamentais que orientam suas decisões e interpretações da vida.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Valores que te guiam é a expressão de conjunto de crenças e valores em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Cultural
+O olhar cultural revela como valores que te guiam ganha significado nas interações e valores compartilhados.
+> "A cultura não faz as pessoas; as pessoas fazem a cultura." – Lev Vygotsky
+### Conexões
+Este objeto dialoga com **Sensações do corpo** e **Capacidade de se observar**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -32,3 +37,8 @@ Refletir sobre crenças e valores ajuda a esclarecer prioridades e motivações.
 - ROKEACH, M. (1973). The nature of human values. Free Press.
 - SCHWARTZ, S. (1992). Universals in the content and structure of values. Advances in Experimental Social Psychology.
 - INGLEHART, R. (1997). Modernization and postmodernization. Princeton University Press.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Valores que te guiam reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

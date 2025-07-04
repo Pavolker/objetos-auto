@@ -7,11 +7,16 @@
 **Perspectiva:** Cultural
 
 ## Descrição expandida
-Modo habitual de se expressar: tom de voz, ritmo, gestos, escuta. Revela como você se faz presente no mundo.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Jeito de se comunicar é a expressão de estilo de comunicação em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Cultural
+O olhar cultural revela como jeito de se comunicar ganha significado nas interações e valores compartilhados.
+> "A cultura não faz as pessoas; as pessoas fazem a cultura." – Lev Vygotsky
+### Conexões
+Este objeto dialoga com **Jeito de se comportar** e **Laços que te sustentam**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -28,7 +33,13 @@ Marshall Rosenberg desenvolveu a comunicação não violenta como forma de expre
 
 Refletir sobre o próprio estilo comunicativo permite aprimorar clareza e empatia. Pesquisas mostram que uma comunicação consciente fortalece laços interpessoais e reduz mal-entendidos.
 
+Pesquisas em neurociências, como as de Antonio Damasio e Daniel Kahneman, ajudam a compreender os processos que sustentam esse objeto.
 **Referências**
 - ROSENBERG, M. (2003). Nonviolent communication. PuddleDancer.
 - WATZLAWICK, P.; BEAVIN, J.; JACKSON, D. (1967). Pragmatics of human communication. Norton.
 - TANNEN, D. (1990). You just don't understand. Ballantine.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Jeito de se comunicar reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

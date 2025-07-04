@@ -7,11 +7,16 @@
 **Perspectiva:** Relacional
 
 ## Descrição expandida
-Capacidade de dialogar, cooperar, escutar e conviver com os outros de forma respeitosa e eficaz.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Habilidades com pessoas é a expressão de habilidades sociais observáveis em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Relacional
+O olhar relacional revela como habilidades com pessoas ganha significado nas interações e valores compartilhados.
+> "Nenhum homem é uma ilha." – John Donne
+### Conexões
+Este objeto dialoga com **Emoções que você expressa** e **Hábitos do dia a dia**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -32,3 +37,8 @@ A prática de observar como se age em grupo permite identificar competências so
 - BANDURA, A. (1986). Social foundations of thought and action. Prentice Hall.
 - VYGOTSKY, L. (1978). Mind in society. Harvard University Press.
 - GOLEMAN, D. (2006). Social intelligence. Bantam.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Habilidades com pessoas reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

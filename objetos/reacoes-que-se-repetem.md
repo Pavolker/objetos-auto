@@ -7,11 +7,16 @@
 **Perspectiva:** Relacional
 
 ## Descrição expandida
-Padrões emocionais automáticos que surgem em relação com o outro — como defensividade, silêncio ou agressividade.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Reações que se repetem é a expressão de reações interpessoais frequentes em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Relacional
+O olhar relacional revela como reações que se repetem ganha significado nas interações e valores compartilhados.
+> "Nenhum homem é uma ilha." – John Donne
+### Conexões
+Este objeto dialoga com **Raízes culturais** e **Ritmos do seu corpo**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -32,3 +37,8 @@ Reconhecer reações recorrentes permite modificar ciclos de conflito e promover
 - GOTTMAN, J. (1999). The marriage clinic. Norton.
 - SKINNER, B. (1953). Science and human behavior. Macmillan.
 - ADLER, A. (1927). Understanding human nature. Greenberg.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Reações que se repetem reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

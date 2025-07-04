@@ -7,11 +7,16 @@
 **Perspectiva:** Relacional
 
 ## Descrição expandida
-Relações em que o outro exerce poder desproporcional sobre sua estabilidade emocional.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Dependências que te prendem é a expressão de situações de dependência emocional em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Relacional
+O olhar relacional revela como dependências que te prendem ganha significado nas interações e valores compartilhados.
+> "Nenhum homem é uma ilha." – John Donne
+### Conexões
+Este objeto dialoga com **Como você se apega** e **Emoções que você expressa**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -28,7 +33,13 @@ Robert Bornstein descreve a dependência emocional como padrões de busca excess
 
 Na prática clínica, compreender dependências auxilia a construir autonomia afetiva. A literatura mostra que terapias focadas em fortalecimento do self reduzem padrões codependentes e favorecem relações mais funcionais.
 
+Pesquisas em neurociências, como as de Antonio Damasio e Daniel Kahneman, ajudam a compreender os processos que sustentam esse objeto.
 **Referências**
 - BORNSTEIN, R. (1993). The dependent personality. Guilford Press.
 - BRAIKER, H. (1989). The disease to please. HarperCollins.
 - KERNBERG, O. (1995). Relaciones de objeto y psicopatía. Paidós.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Dependências que te prendem reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.

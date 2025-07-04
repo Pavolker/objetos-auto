@@ -7,11 +7,16 @@
 **Perspectiva:** Intelectual
 
 ## Descrição expandida
-Ações intencionais e repetidas para se conhecer melhor: meditação, escrita reflexiva, terapia, etc.
-
-No cotidiano, esse objeto se expressa em ações, escolhas e reações que revelam sua essência. Observar como ele se apresenta no dia a dia ajuda a perceber padrões e a reconhecer as influências que moldam seu modo de ser.
-
-Quando negligenciado, surgem distorções ou lacunas que dificultam a compreensão de quem você é. Ao reconhecer esse objeto e explorar exemplos práticos, torna-se mais fácil identificar sua presença ou ausência em diferentes momentos da vida.
+Práticas que te aproximam de si é a expressão de práticas sistemáticas de autopercepção em sua trajetória.
+Psicologicamente, sustenta modos de agir e interpretar o mundo ao seu redor.
+No cotidiano, influencia escolhas e caminhos de autoconhecimento que moldam sua identidade.
+### Microcaso
+Ana percebeu a importância desse objeto quando precisou lidar com uma situação desafiadora relacionada ao tema.
+### A Perspectiva Intelectual
+O olhar intelectual revela como práticas que te aproximam de si ganha significado nas interações e valores compartilhados.
+> "Conhece-te a ti mesmo." – Sócrates
+### Conexões
+Este objeto dialoga com **O que os outros te dizem** e **Raízes culturais**, ampliando a visão integrada do eu.
 
 ## Perguntas Reflexivas
 - O que este aspecto revela sobre mim?
@@ -32,3 +37,8 @@ Tais práticas proporcionam focos de observação interna e estimulam reflexões
 - KABAT-ZINN, J. (1994). Wherever you go, there you are. Hyperion.
 - SIEGEL, D. (2010). Mindsight. Bantam.
 - CSIKSZENTMIHALYI, M. (1990). Flow. Harper & Row.
+
+## Essência do Objeto
+- **Síntese em 1 frase:** Práticas que te aproximam de si reflete aspectos fundamentais do seu ser.
+- **Risco da negligência:** Ignorar esse objeto limita a clareza sobre si.
+- **Potencial de desenvolvimento:** Cultivá-lo aprofunda a consciência e favorece escolhas coerentes.
